@@ -1,0 +1,65 @@
+.precio {
+    font-weight: bolder;
+}
+
+.producto,
+.precio {
+    background-color: #F2F2F2;
+    padding: 0px 25PX;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-weight: bolder;
+    text-align: left;
+}
+
+#leyenda {
+    text-align: center;
+}
+
+#ingredientes {
+    color: gray;
+    font-weight: lighter;
+    padding-left: 35px;
+}
+
+a {
+    color: white;
+}
+
+h6 {
+    text-decoration-color: gray;
+    text-align: left;
+    text-size-adjust: 10px;
+}
+
+.footer-datos {
+    background: #F2F2F2;
+    color: black;
+    font-size: 12px;
+    padding: 35px 0;
+}
+
+.redes {
+    display: flex;
+    background: #F2F2F2;
+    text-align: center;
+}
+
+.redes a {
+    font-size: 2.5rem;
+}
+
+#fb {
+    color: #4267B2;
+}
+
+#in {
+    color: #BB1875;
+}
+
+#wh {
+    color: #2BD14A;
+}
